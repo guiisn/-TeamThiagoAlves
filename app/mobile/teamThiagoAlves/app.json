@@ -1,0 +1,12 @@
+{
+  "name": "teamThiagoAlves",
+  "displayName": "teamThiagoAlves",
+  "expo": {
+    "name": "teamThiagoAlves",
+    "slug": "teamThiagoAlves",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
